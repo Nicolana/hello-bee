@@ -1,0 +1,13 @@
+appname = hello
+httpport = 8888
+runmode = dev
+copyrequestbody = true
+
+db.host = 127.0.0.1
+db.port = 3306
+db.user = local
+db.password = 123456789
+db.name = local
+db.charset = utf8mb4
+
+token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
